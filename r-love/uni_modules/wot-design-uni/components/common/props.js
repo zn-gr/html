@@ -1,0 +1,1 @@
+"use strict";const e=[Number,String],r=e=>({type:String,default:e}),t={customStyle:r(""),customClass:r("")};exports.baseProps=t,exports.makeBooleanProp=e=>({type:Boolean,default:e}),exports.makeNumberProp=e=>({type:Number,default:e}),exports.makeRequiredProp=e=>({type:e,required:!0}),exports.makeStringProp=r,exports.numericProp=e;
