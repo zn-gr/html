@@ -1,1 +1,0 @@
-<view class="{{['data-v-4b0544b8', e]}}" style="{{f}}"><wd-img wx:if="{{a}}" class="data-v-4b0544b8" u-i="4b0544b8-0" bind:__l="__l" u-p="{{b}}"></wd-img><view wx:if="{{c}}" class="wd-status-tip__text data-v-4b0544b8">{{d}}</view></view>

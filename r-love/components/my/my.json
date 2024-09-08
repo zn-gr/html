@@ -1,6 +1,0 @@
-{
-  "component": true,
-  "usingComponents": {
-    "wd-status-tip": "../../uni_modules/wot-design-uni/components/wd-status-tip/wd-status-tip"
-  }
-}

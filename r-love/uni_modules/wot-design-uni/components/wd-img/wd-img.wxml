@@ -1,1 +1,0 @@
-<view class="{{['data-v-756146da', j]}}" bindtap="{{k}}" style="{{l}}"><image class="{{['data-v-756146da', a]}}" style="{{b}}" src="{{c}}" mode="{{d}}" lazy-load="{{e}}" bindload="{{f}}" binderror="{{g}}"/><slot wx:if="{{h}}" name="loading"></slot><slot wx:if="{{i}}" name="error"></slot></view>

@@ -1,8 +1,0 @@
-{
-  "component": true,
-  "usingComponents": {
-    "wd-col": "../../uni_modules/wot-design-uni/components/wd-col/wd-col",
-    "wd-row": "../../uni_modules/wot-design-uni/components/wd-row/wd-row",
-    "wd-icon": "../../uni_modules/wot-design-uni/components/wd-icon/wd-icon"
-  }
-}

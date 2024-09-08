@@ -1,1 +1,0 @@
-"use strict";const e=require("../../common/vendor.js"),t={data:()=>({}),methods:{}};if(!Array){e.resolveComponent("wd-status-tip")()}Math;const r=e._export_sfc(t,[["render",function(t,r,o,n,s,a){return{a:e.p({image:"search",tip:"页面正在开发中"})}}]]);wx.createComponent(r);

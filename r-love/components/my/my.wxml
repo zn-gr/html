@@ -1,1 +1,0 @@
-<view><wd-status-tip wx:if="{{a}}" u-i="575b04a4-0" bind:__l="__l" u-p="{{a}}"/></view>

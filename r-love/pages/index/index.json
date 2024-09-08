@@ -1,8 +1,0 @@
-{
-  "navigationStyle": "custom",
-  "usingComponents": {
-    "home": "../../components/home/home",
-    "riji": "../../components/riji/riji",
-    "my": "../../components/my/my"
-  }
-}

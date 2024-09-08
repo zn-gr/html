@@ -1,1 +1,0 @@
-"use strict";const e=require("../common/props.js"),r={...e.baseProps,image:e.makeStringProp("network"),imageSize:{type:[String,Number,Object],default:""},tip:e.makeStringProp(""),imageMode:e.makeStringProp("aspectFill")};exports.statusTipProps=r;
